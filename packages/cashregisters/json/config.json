@@ -1,0 +1,9 @@
+{
+  "minShotReward": 20,
+  "maxShotReward": 60,
+  "minEmptyReward": 70,
+  "maxEmptyReward": 120,
+  "cashLife": 30000,
+  "cashRegisterCooldown": 300000,
+  "createBlips": true
+}
